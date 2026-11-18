@@ -192,7 +192,7 @@ State what built the entry if your harness does not record it:
 ```sh
 node cli/makefun.mjs bundle --repo ../my-entry --out transcripts.tar.gz \
   --harness "Claude Code" --harness-version "2.1.0" \
-  --provider anthropic --model claude-sonnet-4-5 --effort high \
+  --provider anthropic --model <provider-model-id> claude-sonnet-4-5 --effort high \
   --system-prompt ../system-prompt.txt
 ```
 
@@ -332,7 +332,7 @@ and the gate reads them together. What you must not do is write a session file b
 gap.
 </details>
 
-## Links
+## Links and further reading
 
 - [make.fun](https://make.fun): the bounty board
 - [How it works](https://make.fun/how-it-works)
