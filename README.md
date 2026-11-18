@@ -17,8 +17,34 @@ commands that take you from "no account" to "first entry submitted" without gues
 >
 > The bare code is `ywdgmx3a`. It costs you nothing and it is how I keep writing guides like this one.
 
+## Right now on the board
+
+Concrete numbers, taken from the board the day this guide was written:
+
+| Bounty | Prize | Entries close |
+|---|---|---|
+| [Make GTA 6](https://make.fun/bounty/gta6-01) | $1,666 | 24 Nov 2026 |
+| [Build the best token launch radar](https://make.fun/bounty/token-radar-01) | $1,325 | 14 Dec 2026 |
+| [Make the best AI Roblox brainrot game](https://make.fun/bounty/roblox-brainrot-01) | $1,000 | 20 Nov 2026 |
+| [Build the strongest chess engine in 4 KB of Python](https://make.fun/bounty/tiny-chess-01) | $500 | 24 Nov 2026 |
+
+The pot is escrowed on Solana before entries open, the prize is paid in USDC, and entering costs
+nothing. Some bounties are crowded (the chess one had 18,000 entries when I looked) and some are
+nearly empty (the Roblox one had 44): the entry count is on every card, and it is the single most
+useful number on the board.
+
+## The 60-second version
+
+1. Sign up at <https://make.fun/r/ywdgmx3a> — GitHub, Google, Apple, Discord or a Solana wallet.
+2. Open a bounty you can actually win, read its rules, and pull its kit.
+3. Tell your agent to read `make.fun/skill.md` and build the entry, then bundle, check and submit.
+
+Everything below is the detail behind those three steps.
+
 ## Contents
 
+- [Right now on the board](#right-now-on-the-board)
+- [The 60-second version](#the-60-second-version)
 - [The shape of a bounty](#the-shape-of-a-bounty)
 - [What you actually need](#what-you-actually-need)
 - [Step 1: make an account](#step-1-make-an-account)
